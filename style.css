@@ -1,3 +1,38 @@
-style {
+.display
+{
+  width: 290px;
+  height: 50px;
+  background-color: rgb(214, 211, 211);
+   align-content: center;
+}
+input
+ {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(255, 0, 0);
+     padding: 0px 0px;
+     width: 70px;
+     margin: 2px;
+   height:10vh;
+   justify-content: center;
+   align-content: center;
+   border-radius: 10px;
+   font-size: xx-large;
+
 
 }
+.test1
+{
+    display: flex;
+    justify-content: center;
+    
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    background-image:url('https://www.123ppt.com/powerpoint_background/finance/bk_finance_000001_blue_display.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
