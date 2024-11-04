@@ -1,15 +1,15 @@
 .display
 {
-  width: 290px;
+  width: 300px;
   height: 50px;
-  background-color: rgb(214, 211, 211);
+  background-color: rgba(238, 234, 234, 0.949);
    align-content: center;
 }
 input
  {
  
     font-family:Arial, Helvetica, sans-serif;
-    background-color: rgb(162, 149, 149);
+    background-color: rgb(221, 248, 20);
      padding: 0px 0px;
      width: 70px;
      margin: 2px;
@@ -29,7 +29,7 @@ input
 }
 h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
 }
 body {
@@ -40,7 +40,7 @@ body {
  
 .container
 {
-  background-color: rgb(119, 119, 119);
+  background-color: rgba(158, 158, 148, 0.521);
   padding: 2% 2%;
   border-radius: 10px;
   display: flex;
@@ -48,4 +48,9 @@ body {
   width: 300px;
   margin-left: auto;
   margin-right: auto;
+}
+#name
+{
+  background-color: rgb(189, 31, 142);
+
 }
