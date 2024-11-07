@@ -1,22 +1,23 @@
 .display
 {
   width: 300px;
-  height: 50px;
-  background-color: rgba(238, 234, 234, 0.949);
+  height: 80px;
+  background-color: rgba(216, 226, 226, 0.697);
    align-content: center;
+   text-align: right;
 }
 input
  {
  
     font-family:Arial, Helvetica, sans-serif;
-    background-color: rgb(221, 248, 20);
+    background-color: rgb(230, 230, 225);
      padding: 0px 0px;
      width: 70px;
      margin: 2px;
    height:10vh;
    justify-content: center;
    align-content: center;
-   border-radius: 10px;
+   
    font-size: xx-large;
 
 
@@ -51,6 +52,10 @@ body {
 }
 #name
 {
-  background-color: rgb(189, 31, 142);
+  background-color: rgb(218, 208, 5);
 
+}
+#you
+{
+  background-color: rgb(243, 243, 3);
 }
